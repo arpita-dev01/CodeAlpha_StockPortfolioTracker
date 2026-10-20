@@ -85,5 +85,4 @@ CodeAlpha_StockPortfolioTracker/
 
 Submitted as part of the CodeAlpha Python Programming Internship.
 =======
-# CodeAlpha_StockPortfolioTracker
->>>>>>> 1e8583f2bce93f37b754c14df920591c70e98452
+

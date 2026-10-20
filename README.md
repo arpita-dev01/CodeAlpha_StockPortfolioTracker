@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# CodeAlpha_StockPortfolioTracker
+
 
 **CodeAlpha Python Programming Internship — Task 2: Stock Portfolio Tracker**
 
@@ -84,5 +83,4 @@ CodeAlpha_StockPortfolioTracker/
 ## Author
 
 Submitted as part of the CodeAlpha Python Programming Internship.
-=======
 
